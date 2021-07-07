@@ -225,9 +225,7 @@ saveUser() {
         });
     },
 ```
-![image.png](https://upload-images.jianshu.io/upload_images/26383564-f275a650950a6c95.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![image.png](https://upload-images.jianshu.io/upload_images/26383564-975cc4781e5fd846.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![image.png](https://upload-images.jianshu.io/upload_images/26383564-2b4defe5b822adeb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![image.png](https://upload-images.jianshu.io/upload_images/26383564-294fec1032d71468.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 
